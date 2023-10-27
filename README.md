@@ -15,7 +15,6 @@ Este é o código-fonte para o primeiro projeto de AED 2023-2024.
 - `Design-by-Contract.md` - explicação sobre [metodologia DbC][dbc],
    seguida neste projeto.
 
-
 [dbc]: Design-by-Contract.md
 
 ## Descarregar imagens
@@ -29,7 +28,6 @@ Execute:
 
 - `make` - Compila e gera os programas de teste.
 - `make clean` - Limpa ficheiros objeto e executáveis.
-
 
 ## Sugestões para o desenvolvimento
 
@@ -64,7 +62,6 @@ Mas faça outros testes que considere adequados.
 
 ## Atualizar repositório
 
-
 Dada a natureza do trabalho, poderá ser necessário
 atualizar repositório base (upstream) deste projeto.
 Se isso acontecer, deverá atualizar o seu repositório com os seguintes comandos:
@@ -74,5 +71,3 @@ git remote add upstream git@github.com:detiuaveiro/image8bit-pub.git
 git fetch upstream
 git rebase upstream/main
 ```
-
-
